@@ -1,0 +1,24 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+*.exe~
+
+# Build directories
+/build/
+/bin/
+/dist/
+
+# VS Code settings
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# OneDrive / temp
+~$*
+
+# Misc
+.DS_Store
