@@ -1,0 +1,14 @@
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\bin\Debug\net8.0\ATMSimulation.exe
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\bin\Debug\net8.0\ATMSimulation.deps.json
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\bin\Debug\net8.0\ATMSimulation.runtimeconfig.json
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\bin\Debug\net8.0\ATMSimulation.dll
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\bin\Debug\net8.0\ATMSimulation.pdb
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\ATMSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\ATMSimulation.AssemblyInfoInputs.cache
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\ATMSimulation.AssemblyInfo.cs
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\ATMSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\ATMSimulation.dll
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\refint\ATMSimulation.dll
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\ATMSimulation.pdb
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\ATMSimulation.genruntimeconfig.cache
+C:\Users\Alaiza\Documents\C#\ATM\ATMSimulation\obj\Debug\net8.0\ref\ATMSimulation.dll

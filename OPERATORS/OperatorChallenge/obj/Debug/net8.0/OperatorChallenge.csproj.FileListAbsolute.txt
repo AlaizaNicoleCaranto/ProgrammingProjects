@@ -1,0 +1,14 @@
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\bin\Debug\net8.0\OperatorChallenge.exe
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\bin\Debug\net8.0\OperatorChallenge.deps.json
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\bin\Debug\net8.0\OperatorChallenge.runtimeconfig.json
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\bin\Debug\net8.0\OperatorChallenge.dll
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\bin\Debug\net8.0\OperatorChallenge.pdb
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\OperatorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\OperatorChallenge.AssemblyInfoInputs.cache
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\OperatorChallenge.AssemblyInfo.cs
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\OperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\OperatorChallenge.dll
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\refint\OperatorChallenge.dll
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\OperatorChallenge.pdb
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\OperatorChallenge.genruntimeconfig.cache
+C:\Users\Alaiza\Documents\C#\OPERATORS\OperatorChallenge\obj\Debug\net8.0\ref\OperatorChallenge.dll
