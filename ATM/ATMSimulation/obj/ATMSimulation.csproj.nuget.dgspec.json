@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alaiza\\Documents\\C#\\ATM\\ATMSimulation\\ATMSimulation.csproj": {}
+    "C:\\Users\\Alaiza\\Documents\\Github\\Assignments\\ATM\\ATMSimulation\\ATMSimulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alaiza\\Documents\\C#\\ATM\\ATMSimulation\\ATMSimulation.csproj": {
+    "C:\\Users\\Alaiza\\Documents\\Github\\Assignments\\ATM\\ATMSimulation\\ATMSimulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alaiza\\Documents\\C#\\ATM\\ATMSimulation\\ATMSimulation.csproj",
+        "projectUniqueName": "C:\\Users\\Alaiza\\Documents\\Github\\Assignments\\ATM\\ATMSimulation\\ATMSimulation.csproj",
         "projectName": "ATMSimulation",
-        "projectPath": "C:\\Users\\Alaiza\\Documents\\C#\\ATM\\ATMSimulation\\ATMSimulation.csproj",
+        "projectPath": "C:\\Users\\Alaiza\\Documents\\Github\\Assignments\\ATM\\ATMSimulation\\ATMSimulation.csproj",
         "packagesPath": "C:\\Users\\Alaiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alaiza\\Documents\\C#\\ATM\\ATMSimulation\\obj\\",
+        "outputPath": "C:\\Users\\Alaiza\\Documents\\Github\\Assignments\\ATM\\ATMSimulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alaiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alaiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -37,10 +40,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -53,12 +58,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.31, 8.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.31, 8.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.31, 8.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.31, 8.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
